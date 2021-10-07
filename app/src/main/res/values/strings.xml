@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculadora</string>
+    <string name="etNumeros">Ingrese numeros ej 1,2,3,4</string>
+    <string name="desccripcionPrograma">Calculadora que suma números separados por coma</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="tvIngreso">Su resultado se mostrará por acá</string>
+</resources>
